@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DevPlayerSP</title>
+<style>
+  body { margin:0; font-family: Arial, sans-serif; color:white; text-align:center;
+  background: #000 url('SUA-FOTO-DE-FUNDO.jpg') no-repeat center top; background-size: cover; }
+  .logo { width:160px; height:160px; border-radius:50%; border:3px solid #ff0055; margin-top:80px; object-fit:cover; }
+  .sub { letter-spacing:5px; font-size:14px; margin:15px 0 25px; }
+  .btn { display:flex; align-items:center; justify-content:space-between;
+  background: rgba(20,20,20,0.9); color:white; text-decoration:none;
+  margin:12px 20px; padding:18px; border-radius:12px; font-weight:bold; font-size:18px; border-left:5px solid #ff0055; }
+  .btn span { color:#ff0055; }
+</style>
+</head>
+<body>
+  <img src="SUA-LOGO.png" class="logo">
+  <div class="sub">GAMES / LIVES / GAMEPLAY</div>
+
+  <a class="btn" href="https://youtube.com/@seucanal">▶ YOUTUBE <span>></span></a>
+  <a class="btn" href="https://twitch.tv/seucanal">♛ TWITCH <span>></span></a>
+  <a class="btn" href="https://tiktok.com/@seuuser">♪ TIKTOK <span>></span></a>
+  <a class="btn" href="https://instagram.com/seuuser">◎ INSTAGRAM <span>></span></a>
+  <a class="btn" href="https://threads.net/@seuuser">@ THREADS <span>></span></a>
+
+  <p style="opacity:0.6; font-size:12px;">© 2026 DevPlayerSP</p>
+</body>
+</html>
